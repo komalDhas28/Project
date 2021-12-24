@@ -59,11 +59,11 @@ text-align: left;
     
 }
   
-  @media screen and (max-width: 600px) {
+/*   @media screen and (max-width: 600px) {
     .column {
       width: 100%;
     }
-  }
+  } */
 
 
 
@@ -84,7 +84,7 @@ text-align: left;
 
 .column {
     float: left;
-/*     width: 25%; */
+/*      width: 28%; */
   }
 
     .close {
