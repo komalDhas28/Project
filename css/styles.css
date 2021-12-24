@@ -76,7 +76,7 @@ text-align: left;
     opacity: 0.2299999892711639;
     border-left: 6px ;
     height: 500px;
-    position: absolute;
+    position: relative;
     left: 70%;
     margin-left: -3px;
     top: 0;
@@ -84,7 +84,7 @@ text-align: left;
 
 .column {
     float: left;
-/*      width: 28%; */
+    width: 30%;
   }
 
     .close {
